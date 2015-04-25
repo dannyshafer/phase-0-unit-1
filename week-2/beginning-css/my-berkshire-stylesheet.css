@@ -1,0 +1,55 @@
+*{
+   font-family:Arial;
+}
+p {
+  color: #000080;
+}
+
+a {
+  color: 800080;
+}
+
+a:visited {
+  color: #ff0000;
+}
+
+body {
+  background-color: #ffffff;
+}
+
+.subtext {
+  font-size: .8em;
+  color: black;
+}
+
+span {
+    font-size: 1.4em;
+}
+
+h3, h4, h5 {
+    text-align: center;
+    font-family: arial;
+}
+
+
+.line {
+    width: 100%;
+    border: 1px solid gray;
+}
+
+img{
+  margin:auto;
+  display:block;
+}
+
+.larger{
+  font-size: 1.2em;
+}
+
+.smaller {
+  font-size: .9em;
+}
+
+.center, .larger{
+  text-align: center;
+}

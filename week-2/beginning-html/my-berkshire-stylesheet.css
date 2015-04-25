@@ -1,0 +1,49 @@
+p {
+  color: #000080;
+}
+
+a {
+  color: 800080;
+}
+
+a:visited {
+  color: #ff0000;
+}
+
+body {
+  background-color: #ffffff;
+}
+
+.subtext {
+  font-size: .8em;
+  color: black;
+}
+
+span {
+    font-size: 1.4em;
+}
+
+h3, h4, h5 {
+    text-align: center;
+    font-family: arial;
+}
+
+
+.line {
+    width: 100%;
+    border: 1px solid gray;
+}
+
+center {
+    margin: auto;
+}
+
+smaller {
+    font-size: .9em;
+}
+
+#balls
+#use of html styling 
+table setting is a little different
+ul in each cell rather than one for the whole page
+spacing and alignment in general are different, height width were set specifically 

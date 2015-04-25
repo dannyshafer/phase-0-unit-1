@@ -1,0 +1,27 @@
+/* include your css here */
+body {
+    font-family: tahoma;
+}
+header {
+    background-color: #00CCFF;
+    border: 1px red solid;
+    padding: 1%;
+}
+article {
+    float: left;
+    height: 20em;
+    width: 34.5%;
+    background-color: green;
+    padding: 2.5%;
+    border: solid 1px black;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+footer {
+    clear: both;
+    background-color: red;
+    text-align: center;
+    border: 1px solid #00CCFF;
+}
