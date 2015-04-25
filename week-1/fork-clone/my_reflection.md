@@ -3,6 +3,7 @@
 ### From GitHub Introduction Challenge
 
 - Write an explanation of and compare git and GitHub to a non-technical audience.
+<<<<<<< HEAD
 
 	Imagine you're writing a document with three friends. You write some of it and then send it to the second person. He writes his piece and e-mails it to the third person. While she's making her contribution, you realize that you need to make a change. The problem is, you have to ask for her copy and then e-mail your friends afterwards. Git is a way of managing a lot of peoples' changes at the same time and bringing them all together during development and when it's done. GitHub is a centralized repository that allows you to do git, but rather than being on a single computer or a single network, it is location-agnostic because you can use it on any computer with an internet connection.
 
@@ -37,3 +38,15 @@
 
 <!-- Add your reflection here. Remove the comment markers -->
 <!-- I'm good, just added the comments inline. -->
+=======
+- Describe what version control is and how GitHub helps with it.
+- Why do developers use version control (git)? Does that make sense to you? Why or why not?
+- What doesn't make sense? What does?
+
+### From Fork and Clone challenge
+- Create your own step-by-step fork and clone instructions for later use
+- What struggles did you have setting up git and GitHub? What did you learn in the process?
+- Did you have any moments where it all clicked? What clicked?
+
+<!-- Add your reflection here. Remove the comment markers -->
+>>>>>>> upstream/master

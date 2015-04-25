@@ -5,9 +5,14 @@
 
 # Your Solution Below
 def factorial(number)
+<<<<<<< HEAD
   if number == 0
     return 1
   else
     return (1..number).reduce(:*)
   end
 end 
+=======
+  # Your code goes here
+end
+>>>>>>> upstream/master

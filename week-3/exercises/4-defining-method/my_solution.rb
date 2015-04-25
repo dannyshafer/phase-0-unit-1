@@ -4,7 +4,10 @@
 
 
 # Your Solution Below
+<<<<<<< HEAD
 def do_something(a, b, c)
 end
 
+=======
+>>>>>>> upstream/master
 

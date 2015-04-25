@@ -16,9 +16,13 @@
 
 # 1. total initial solution
 
+<<<<<<< HEAD
 def total(array)
   return array.reduce(:+)
 end
+=======
+
+>>>>>>> upstream/master
 
 # 3. total refactored solution
 
@@ -32,18 +36,26 @@ end
 
 
 # 5. sentence_maker initial solution
+<<<<<<< HEAD
 def sentence_maker(array)
   sentence = array.join(" ")
   sentence.capitalize!
   return sentence + "."
 end
+=======
+
+>>>>>>> upstream/master
 
 
 # 6. sentence_maker refactored solution
 
+<<<<<<< HEAD
 def sentence_maker(array)
   puts array.join(" ").capitalize! + "."
 end
+=======
+
+>>>>>>> upstream/master
 
 # 7. reflection
 # remember to limit yourself to 10-15 min. on your reflection!

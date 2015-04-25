@@ -15,9 +15,13 @@
 # Your Solution Below
 
 def count_between(list_of_integers, lower_bound, upper_bound)
+<<<<<<< HEAD
   count = 0
   list_of_integers.each do |i|
   	count += 1 if (lower_bound..upper_bound).include?(i)
   end
   count
+=======
+  # Your code goes here!
+>>>>>>> upstream/master
 end
