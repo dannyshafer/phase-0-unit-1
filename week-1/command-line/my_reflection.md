@@ -3,6 +3,7 @@
 Write your reflection on a document or by hand on the following questions. Keep track of your answers because you'll be asked to add them to this document in challenge [7: Tracking Changes](../7-tracking-changes).
 
 1. What is a shell? What is "bash?"
+<<<<<<< HEAD
   A shell is the interface that you use to access your computer at the sub-graphical level. In other words, interacting with the computer through text. Bash is shell on steroids, or version 2.0 if you will, which adds a lot of functionality and is much easier to use than the old shell. It'll also let you stop and start commands easily, which is important when you're constantly starting and stopping rails server.
 
 2. What was the most challenging for you in going through this material?
@@ -45,3 +46,39 @@ Write your reflection on a document or by hand on the following questions. Keep 
 -`help`: hooks you up with an explanation overview of how various commands work
 
 -`exit`: closes shell
+=======
+2. What was the most challenging for you in going through this material?
+3. Were you able to successfully use all of the commands?
+4. In your opinion, what are the most important arguments to know?
+5. Can you remember what each of the following does of the top of your head? Write what each does.
+
+-`pwd`
+
+-`ls`
+
+-`grep`
+
+-`mv`
+
+-`cd`
+
+-`../`
+
+-`touch`
+
+-`mkdir`
+
+-`echo`
+
+-`less`
+
+-`rmdir`
+
+-`cat`
+
+-`rm`
+
+-`help`
+
+-`exit`
+>>>>>>> upstream/master

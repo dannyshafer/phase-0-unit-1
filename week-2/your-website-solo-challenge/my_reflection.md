@@ -1,5 +1,6 @@
 # 8. Creating your website Reflection
 
+<<<<<<< HEAD
 My Wireframe URL: https://wireframe.cc/BnbPLX (P.S. The website looks completely different and way better than the wireframe would suggest.)
 
 My Website url: dannyshafer.github.io 
@@ -26,3 +27,17 @@ Embed a Twitter feed, post links to all my dope web presences and the site's I'v
 - Did you find any resources on your own that helped you better understand a topic? If so, please list it.
 
 http://reference.sitepoint.com/css
+=======
+My Wireframe URL:
+
+My Website url: <!-- Place your website link here -->
+
+#### I spent [#] hours on this challenge.
+
+Discuss the following:
+- What was your process? What worked and didn't work?
+- What would you like to add or change about the site next?
+- Was it difficult to apply the material you learned? Did you find anything in your research you thought was super cool?
+- Create a TODO list of features you want to add in the future.
+- Did you find any resources on your own that helped you better understand a topic? If so, please list it.
+>>>>>>> upstream/master

@@ -12,6 +12,7 @@
 
 #Your Solution Below
 def shortest_string(list_of_words)
+<<<<<<< HEAD
   sorted = false
   until sorted
   	sorted = true
@@ -24,3 +25,7 @@ def shortest_string(list_of_words)
   end
   list_of_words[0] 
 end
+=======
+  # Your code goes here!
+end
+>>>>>>> upstream/master

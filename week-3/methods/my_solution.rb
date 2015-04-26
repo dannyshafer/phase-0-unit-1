@@ -7,6 +7,7 @@
 
 # 1. Full name greeting: Write a program that asks for a person's first name, then middle, then last. Finally, it should greet the person using their full name.
 
+<<<<<<< HEAD
 ```ruby
 	def name()
 	    puts "What is your first name?"
@@ -21,10 +22,14 @@
 
 name()
 ```
+=======
+# Your code here
+>>>>>>> upstream/master
 
 # -------------------------------------------
 # 2. Bigger, better favorite number: Write a program that asks for a person's favorite number. Have your program add 1 to the number, and then suggest the result as a bigger and better number.
 
+<<<<<<< HEAD
 ```ruby
 	def fav
     	puts "What is your favorite number?"
@@ -34,5 +39,8 @@ name()
 
 fav
 ```
+=======
+# Your code here
+>>>>>>> upstream/master
 
 # -------------------------------------------

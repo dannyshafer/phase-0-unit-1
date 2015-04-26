@@ -3,6 +3,7 @@
 # I worked on this challenge [by myself, with: ].
 
 
+<<<<<<< HEAD
 # Your Solution Below
 def get_grade(n)
 	if n >= 90
@@ -17,3 +18,6 @@ def get_grade(n)
 		'F'
 	end	
 end
+=======
+# Your Solution Below
+>>>>>>> upstream/master

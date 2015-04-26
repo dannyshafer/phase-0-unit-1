@@ -1,6 +1,7 @@
 # U1.W1: Thinking About Time Reflection
 
 * How do you manage your time currently?
+<<<<<<< HEAD
   I manage my time pretty well during the day and not as well at night. There's definitely room for improvement in terms of   boxing my time and setting specific goals for a particular time period. 
 
 * Is your current strategy working? If not, why not? 
@@ -14,3 +15,9 @@
   
 * What is your overall plan for Phase 0 time management?
   Besides using Poms, I think there's just a lot to be said for the value of meditation to get you in the zone so you can shed whatever else is going on in your brain prior to beginning a Pom. That'll allow you to make the most of the 25 minutes. 
+=======
+* Is your current strategy working? If not, why not? 
+* What techniques did you look into during this challenge that interested you?
+* Can/will you employ any of them? If so, how?
+* What is your overall plan for Phase 0 time management?
+>>>>>>> upstream/master

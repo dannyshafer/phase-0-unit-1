@@ -1,10 +1,15 @@
 ## 2. Site Planning Reflection
 
+<<<<<<< HEAD
 #### I spent 2 hours on this challenge.
+=======
+#### I spent [#] hours on this challenge.
+>>>>>>> upstream/master
 
 ### Site planning
 
 1. What is your site's primary goal or purpose?
+<<<<<<< HEAD
 
 	The site's primary goal is to demonstrate what I've learned at DBC, why I'd be a great addition to a software engineering team, and most importantly: that I'm a decent person that other people will enjoy working with. 
 
@@ -28,6 +33,14 @@
 
 	I think for hiring managers I'd like to see them looking at my portfolio/GitHub account so that they can see what skills I've practiced. For other visitors, friends in particular, there's probably not a lot for them. Reading specificly prompted week-to-week rants about technology and culture are not particularly what my friends would care to spend time on. 
 
+=======
+2. What kind of content will your site feature?
+3. What is the best way to share that content with users?
+4. Think about your target audience. What are their interests and how do you see your site addressing them?
+5. How do you think most users will find your site?
+6. What is the primary "action" the user should take when coming to your site? Do you want them to search for information, contact you, or see your portfolio? It's ok to have several actions at once, or different actions for different kinds of visitors.
+
+>>>>>>> upstream/master
 ***
 
 ### Site map

@@ -13,6 +13,7 @@
 
 # Your Solution Below
 def longest_string(list_of_words)
+<<<<<<< HEAD
   sorted = false
   until sorted
   	sorted = true
@@ -25,3 +26,7 @@ def longest_string(list_of_words)
   end
   list_of_words[list_of_words.count - 1] 
 end
+=======
+  # Your code goes here!
+end
+>>>>>>> upstream/master

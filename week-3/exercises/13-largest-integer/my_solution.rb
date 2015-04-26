@@ -12,6 +12,7 @@
 
 # Your Solution Below
 def largest_integer(list_of_nums)
+<<<<<<< HEAD
   sorted = false
   until sorted
   	sorted = true
@@ -23,4 +24,7 @@ def largest_integer(list_of_nums)
   	end
   end
   list_of_nums[list_of_nums.count - 1] 
+=======
+  # Your code goes here!
+>>>>>>> upstream/master
 end

@@ -1,5 +1,6 @@
 ## 6. Blog Template Challenge Reflection
 
+<<<<<<< HEAD
 #### I spent 5 hours on this challenge.
 
 - What concepts are you having trouble with, or did you just figure something out? If so, what?
@@ -21,3 +22,12 @@
 - Which parts of the challenge did you find tedious?
 
 	All the positioning. </br> <img src="http://i1.kym-cdn.com/entries/icons/facebook/000/006/199/x-all-the-y.png" />
+=======
+#### We spent [#] hours on this challenge.
+
+- What concepts are you having trouble with, or did you just figure something out? If so, what?
+- Did you learn any new skills or tricks?
+- How confident are you with each of the Learning Competencies for this challenge?
+- Which parts of the challenge did you enjoy?
+- Which parts of the challenge did you find tedious?
+>>>>>>> upstream/master

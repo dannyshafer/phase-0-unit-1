@@ -3,6 +3,7 @@
 # I worked on this challenge [by myself, with: ].
 
 
+<<<<<<< HEAD
 # Your Solution Below
 def good_guess?(input)
 	if input.to_i == 42
@@ -11,3 +12,6 @@ def good_guess?(input)
 		false
 	end
 end
+=======
+# Your Solution Below
+>>>>>>> upstream/master
