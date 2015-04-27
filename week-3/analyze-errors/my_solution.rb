@@ -1,25 +1,20 @@
 # U1.W3: Analyze the Errors
 
-<<<<<<< HEAD
+
 # I worked on this challenge [with Andrea].
 # I spent 1 hour on this challenge.
 
 # --- error -------------------------------------------------------
 
 #{ERROR}"Screw you guys " + "I'm going home." = cartmans_phrase
-=======
-# I worked on this challenge [by myself, with: ].
-# I spent [#] hours on this challenge.
-
-# --- error -------------------------------------------------------
 
 "Screw you guys " + "I'm going home." = cartmans_phrase
->>>>>>> upstream/master
+
 
 # This error was analyzed in the README file.
 # --- error -------------------------------------------------------
 
-<<<<<<< HEAD
+
 # def cartman_hates(thing)
 #  while true
 #    puts "What's there to hate about #{thing}?"
