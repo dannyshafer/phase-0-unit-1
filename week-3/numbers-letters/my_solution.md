@@ -1,28 +1,16 @@
-# U1.W3: Methods: Notes for Numbers and Letters
+ U1.W3: Methods: Notes for Numbers and Letters
 
-# I worked on this challenge [by myself, with: ].
+ I worked on this challenge [by myself].
 
-<<<<<<< HEAD
-#### I spent 1 hours on this challenge.
-=======
-#### I spent [#] hours on this challenge.
->>>>>>> upstream/master
+ I spent 1 hours on this challenge.
 
-
-### Summary
 - What does `puts` do?
-<<<<<<< HEAD
-
 	Puts is short for "put string" and will print out whatever you pass to it, whether it's a "string" in quotes, a math problem, or even another vriable. 
 
 - What is the difference between float and integer division?
 
 	The difference between float and integer division is that float will take you to decimal places needed to be an accurate solution while integer division will round to the nearest whole number. 
 
-=======
-- What is the difference between float and integer division?
-
->>>>>>> upstream/master
 ### Try it!
 
 My solution for:
@@ -60,6 +48,4 @@ https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/re
 ```ruby
  Puts "Yay!"
 ```
-=======
- -->
->>>>>>> upstream/master
+
